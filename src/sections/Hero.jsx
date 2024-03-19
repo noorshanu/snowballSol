@@ -24,18 +24,18 @@ function Hero() {
 
         <div className=" py-2">
           <a
-            href="https://solscan.io/token/5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9"
+            href="https://solscan.io/token/EZdXseDUR9NtCDYQ2wK42U8PZvjbityt2SnQpLSf6nBg"
             target="_blank"
             className="my-2 font-groot-one flex justify-center text-xs bg-[#80dbeb] rounded-full px-4 py-2  text-black  sm:text-lg font-semibold sm:max-w-2xl mx-auto max-w-full border-2"
           >
             {" "}
-            Contract : 5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9
+            Contract : EZdXseDUR9NtCDYQ2wK42U8PZvjbityt2SnQpLSf6nBg
           </a>
         </div>
 
         <div className="relative z-40 flex items-center justify-center my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
         <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/4RWrhM81MtAEedgZw51EnUeJWXJyfdYWXZ3XpYHHaomc?t=1710748472452"
+            href="#"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#80dbeb] shadow-lg shadow-black/40 text-black  font-bold  border-[#000000] border-2"
           >
@@ -43,7 +43,7 @@ function Hero() {
           </a>
         
           <a
-            href="https://t.me/dinodogeso"
+            href="https://t.me/snowballso"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#80dbeb] shadow-lg shadow-black/40 text-black  font-bold  border-[#000000] border-2"
           >
