@@ -1,8 +1,8 @@
 function Hero() {
   return (
-    <section className=" pt-8  pb-[4rem]">
+    <section className=" pt-2  pb-[4rem]">
       <div className="container-wrapper">
-        <h1 className=" font-groot-one text-2xl text-center sm:text-5xl font-semibold my-4 max-w-full sm:max-w-5xl mx-auto text-[#ffffff] sm:text-[#000]">
+        <h1 className=" font-groot-one text-2xl text-center sm:text-3xl font-semibold my-4 max-w-full sm:max-w-2xl mx-auto text-[#ffffff] sm:text-[#000]">
         Chill with SnowballSol: Where Memes meet the Arctic Abyss of Solana Fun!
         </h1>
         <div className="relative z-50">

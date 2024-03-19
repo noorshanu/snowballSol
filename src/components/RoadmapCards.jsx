@@ -26,7 +26,7 @@ function RoadmapCards() {
           <img
             src="images/img1.webp"
             alt=""
-            className=" rounded-xl border-black border"
+            className=" rounded-xl border-black border my-4  mx-auto h-[400px] w-auto"
           />
         </SwiperSlide>
 
@@ -34,7 +34,7 @@ function RoadmapCards() {
           <img
             src="images/img3.webp"
             alt=""
-            className=" rounded-xl border-black border m-4"
+            className=" rounded-xl border-black border my-4  mx-auto h-[400px] w-auto"
           />
         </SwiperSlide>
 
@@ -42,7 +42,7 @@ function RoadmapCards() {
           <img
             src="images/img4.webp"
             alt=""
-            className=" rounded-xl border-black border m-4"
+            className=" rounded-xl border-black border my-4  mx-auto h-[400px] w-auto"
           />
         </SwiperSlide>
 
@@ -50,7 +50,7 @@ function RoadmapCards() {
           <img
             src="images/img5.webp"
             alt=""
-            className=" rounded-xl border-black border m-4"
+            className=" rounded-xl border-black border my-4  mx-auto h-[400px] w-auto"
           />
         </SwiperSlide>
 
