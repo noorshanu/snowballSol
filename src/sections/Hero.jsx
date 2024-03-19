@@ -26,7 +26,7 @@ function Hero() {
           <a
             href="https://solscan.io/token/5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9"
             target="_blank"
-            className="my-2 font-groot-one flex justify-center text-xs  text-black  sm:text-lg font-semibold"
+            className="my-2 font-groot-one flex justify-center text-xs bg-[#80dbeb] rounded-full px-4 py-2  text-black  sm:text-lg font-semibold sm:max-w-2xl mx-auto max-w-full border-2"
           >
             {" "}
             Contract : 5f65PYwzhSEHfDBqMdqJoQnHyQVMnWQuiVzG7WaX4gu9
