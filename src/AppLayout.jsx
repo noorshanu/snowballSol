@@ -16,7 +16,7 @@ function AppLayout() {
 
         <Hero />
       </main>
-      <div className=" h-[100px]  py-4  mb-2 bg-[#b6b6b6] ">
+      <div className=" h-[100px]  py-4  mb-2 bg-[#252525] ">
         <MemeMark />
       </div>
 
