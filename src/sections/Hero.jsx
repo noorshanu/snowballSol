@@ -35,7 +35,7 @@ function Hero() {
 
         <div className="relative z-40 flex items-center justify-center my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
         <a
-            href="#"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/Et7EhmkHZtxuHcamrbFY7JpT4Uz5tc6cmzAsB3C8W1iG?t=1710852314977"
             target="_blank"
             className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#80dbeb] shadow-lg shadow-black/40 text-black  font-bold  border-[#000000] border-2"
           >
