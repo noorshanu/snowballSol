@@ -7,7 +7,7 @@ import SliderNavigationButton from "./SliderNavigationButton";
 
 function RoadmapCards() {
   return (
-    <section className="px-6">
+    <section className="px-6 ">
       <Swiper
         slidesPerView={1}
         spaceBetween={30}
@@ -57,10 +57,10 @@ function RoadmapCards() {
        
       </Swiper>
 
-      <div className="flex items-center space-x-5 justify-center mt-4">
+      {/* <div className="flex items-center space-x-5 justify-center mt-4">
         <SliderNavigationButton id="prevEl" className="rotate-180" />
         <SliderNavigationButton id="nextEl" />
-      </div>
+      </div> */}
     </section>
   );
 }

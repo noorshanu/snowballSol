@@ -24,9 +24,9 @@ function AppLayout() {
         <dl className="h-[50px]" />
         <Intro />
         <dl className="h-[50px]" />
-        {/* <div className=" bg-[#224609]">
+        <div className=" ">
         <MemeCards />
-        </div> */}
+        </div>
         {/* <div>
           <RoadMap/>
         </div> */}

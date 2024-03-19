@@ -14,7 +14,7 @@ const Intro = () => {
             <img
               src="images/img1.webp"
               alt=""
-              className=" rounded-3xl shadow-lg sm:w-[600px] h-[400px] mx-auto"
+              className=" rounded-3xl shadow-lg sm:w-[300px] h-[300px] mx-auto border-2 border-black"
             />
           </div>
           <div className=" w-full text-center">
@@ -29,9 +29,7 @@ const Intro = () => {
            SnowBall Sol isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth,SnowBall Sol offers more than just memes. 
             </h1>
 
-            <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
-            From his hilarious antics to his groundbreakingSnowBall Sol Game and pet store,SnowBall Sol brings excitement and adventure to the crypto world! 
-            </h1>
+          
           </div>
         </div>
       </div>
